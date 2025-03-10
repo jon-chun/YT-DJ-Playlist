@@ -1,0 +1,20 @@
+# YouTube Downloader Configuration
+
+# YouTube channel or playlist URL
+# YT_CHANNEL: "https://www.youtube.com/watch?v=EptPiz-ZYvM&list=PLJZH8sevmMq6Ao3BUvP3FDOq1CrUxP9-r&index=50"
+YT_CHANNEL: "https://www.youtube.com/watch?v=SSxgU2JBE94&list=PLJZH8sevmMq6Ao3BUvP3FDOq1CrUxP9-r&index=1"
+
+# Downloads directory (relative to project root or absolute path)
+DOWNLOADS: "downloads"
+
+# Maximum number of videos to download from a playlist
+MAX_DOWNLOADS: 50
+
+# Default download parameters
+DEFAULT_PARAMETERS:
+  type: "video"         # Options: video, audio
+  size: "760"           # Video height in pixels
+  language: "en"        # Preferred subtitle language
+  video_format: "mp4"   # Preferred video format
+  audio_format: "mp3"   # Preferred audio format
+  log_level: "INFO"     # Options: DEBUG, INFO, WARNING, ERROR, CRITICAL, NONE

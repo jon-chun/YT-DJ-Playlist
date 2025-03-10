@@ -1,0 +1,23 @@
+YouTube Download Report
+Generated: 2025-03-09 22:11:57
+Download Type: video
+Max Downloads: 10
+==================================================
+
+SUCCESS: This Kiss - Faith Hill (Vintage “Doris Day” Style Cover) ft. Tatum Langley - https://www.youtube.com/watch?v=SSxgU2JBE94
+SUCCESS: Where or When - Postmodern Jukebox feat. Sunny Holiday - https://www.youtube.com/watch?v=ROIc2A3EOFM
+SUCCESS: Soul Love - David Bowie (Jazz Ballad Style Cover) ft. Sweet Megg - https://www.youtube.com/watch?v=VSVRiQpEgyo
+SUCCESS: Superman - Goldfinger (Vintage Las Vegas Style Cover) ft. Blake Lewis - https://www.youtube.com/watch?v=t-3aTxyZ0UI
+SUCCESS: Say You'll Be There - Spice Girls (Vintage Style Cover) ft. Kyndle, Tawanda, Tatum - https://www.youtube.com/watch?v=KWQzyl9fg1Y
+SUCCESS: Lovesong - The Cure (1940s Big Band Style Cover) feat. Emma Smith - https://www.youtube.com/watch?v=Ymt_cBfCjZM
+SUCCESS: One Week - Barenaked Ladies (Vintage ‘40s Jazz Cover) feat. Emma Smith - https://www.youtube.com/watch?v=_jzfhpw08i8
+SUCCESS: Uptown Girl - Billy Joel (Vintage Judy Garland- Style Cover) feat. Stella Katherine Cole - https://www.youtube.com/watch?v=ddyCCqjcpG0
+SUCCESS: Man! I Feel Like A Woman! - Shania Twain (Marilyn Monroe Style Cover) feat. Allison Young - https://www.youtube.com/watch?v=08wwMzJrFsA
+SUCCESS: Love Story - Taylor Swift (1940 "Bebop La Boheme" Style Cover) ft. Caity Gyorgy - https://www.youtube.com/watch?v=VFFQrdOpNY0
+
+==================================================
+Download Summary:
+Total Processed: 10
+Total Success: 10
+Total Failures: 0
+Success Rate: 100.0%
